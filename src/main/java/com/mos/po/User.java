@@ -3,9 +3,7 @@ package com.mos.po;
 
 public class User {
 
-    /**
-     * 不使用 int 类型 ？
-     */
+   
     private Integer id;
 
     private String userName;
